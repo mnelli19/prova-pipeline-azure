@@ -15,7 +15,7 @@ pool:
   name: SOGEI-CLOUD
 
 steps:
-- script: echo Hello, world!
+- script: ls -l
   displayName: 'Run a one-line script'
 
 - script: |
